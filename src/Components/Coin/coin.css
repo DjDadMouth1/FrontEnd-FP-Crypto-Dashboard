@@ -1,0 +1,14 @@
+.Container {
+    background-color: red;
+    width: 300px;
+  
+    /* Center the container in middle on horizontal axis */
+    margin: 0 auto;
+  
+    /* Add empty space above the container (20% of the view height) */
+    margin-top: 20vh;
+  }
+
+.Name {
+    color: blue;
+}
